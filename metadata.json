@@ -1,0 +1,6 @@
+{
+  "name": "Magical World",
+  "description": "Explore the Lands, Earn to Game, Complete Quests, Play and Win Rewards",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
